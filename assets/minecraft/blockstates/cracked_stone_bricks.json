@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+          {"model": "minecraft:block/cracked_stone_bricks","weight": 3},
+          {"model": "minecraft:block/cracked_stone_bricks_02","weight": 6},
+          { "model": "minecraft:block/cracked_stone_bricks_01","weight": 1}
+         ]
+  }
+}
