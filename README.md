@@ -2,5 +2,6 @@
 
 
 # PTP的续更包
+Only supports minecraft_1.15+
 ![demo](demo.png)
 
