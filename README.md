@@ -5,7 +5,7 @@
  
 停更后由LIPiston接手主持续更，主要更新人员为LIPiston、MouFengcoo、LYOfficial
 
-![](https://github.com/Minecraft-TecoCraft-server/Frozen_Pear_Pack/blob/master/title.png)
+![](https://github.com/LYOfficial/Frozen_Pear_Pack/blob/master/title.png?raw=true)
 
 # ![1_inf](https://ooo.0o0.ooo/2018/04/15/5ad356c68a689.png)材质简介
 　　梨子材质（PTP）是一款 16x 的极简风格材质，它诞生于 2014 年 11 月 02 日，由 Pairman小梨人 制作。材质最开始仅为为手机版 Minecraft 制作的整合包，后来逐渐发展为梨子材质，并且逐渐涵盖游戏的绝大部分贴图。材质更新历时五年之久，致力于向玩家提供更舒适的游戏体验。本材质适用于 Minecraft基岩版 和 Java版；目前已涵盖游戏内近乎所有的方块、物品和生物等材质，贴图风格简约、配色清简明快，保证了统一的视觉风格，为玩家呈现出一个近乎完美的方块世界。本材质可以很好地贴合生存、建筑、红石等情景，让玩家在游戏中感受到宁静与舒适。本材质还涵盖了部分自定义方块（如手机版旧版蓝玫瑰的回归、多姿的荷叶与荷花)和定制的游戏界面，这些有趣的特性也会进一步增添游戏乐趣。（在2018年停止更新）
