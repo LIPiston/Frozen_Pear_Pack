@@ -42,3 +42,5 @@
 ![](https://github.com/LIPiston/Frozen_Pear_Pack/blob/master/demo3.png)
 
 ![](https://i.loli.net/2019/02/09/5c5dc11a6d1b0.png)
+# ![1_inf](https://ooo.0o0.ooo/2018/04/15/5ad356c68a689.png)加入我们
+　　[点此进入 FPP 脑血栓交流群](https://jq.qq.com/?_wv=1027&k=0UzoROFa)
