@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/cube_all",
 	"textures": {
-		"1": "block/laois_ore",
+		"1": "block/lapis_ore",
 		"all": "block/stone",
-		"particle": "block/laois_ore"
+		"particle": "block/lapis_ore"
 	},
 	"elements": [
 		{
