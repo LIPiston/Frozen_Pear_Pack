@@ -26,10 +26,9 @@
 | 不稳定  | JE1.17+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [下载](http://pan.coldregion.top:17468/share/CdSSBwdh)  |
 | 不稳定  | JE1.18+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [下载](http://pan.coldregion.top:17468/share/rBbpt9N9)  |
 
-
-    测试构建包下载
+__测试构建包下载__
 ```sh
-sh "wget https://raw.githubusercontent.com/LIPiston/Frozen_Pear_Pack/master/dev-linux.sh"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/LIPiston/Frozen_Pear_Pack/master/dev-linux.sh)"
 ```
 　　<br>
 　　Java版 的材质包为 zip 格式，您可以将 zip 文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
