@@ -13,5 +13,13 @@ echo "                                       LYOfficial                         
 echo "                                                                              "
 echo "=============================================================================="
 wget -q --show-progress https://github.com/LIPiston/Frozen_Pear_Pack/archive/refs/heads/master.zip
-mv master.zip dev.zip
-echo Please create pack.mcmeta into the dev.zip
+unzip master.zip
+cd Frozen_Pear_Pack-master
+zip -u Frozen_Pear_Pack-master-dev.zip *
+mv Frozen_Pear_Pack-master-dev.zip ../Frozen_Pear_Pack-master-dev.zip
+cd ..
+rm -rf Frozen_Pear_Pack-master master.zip
+PACK='{"pack": {"pack_format": 6,"description": "§l§6冻梨子续更包 \n§l§7Only for Java Edition"}}'
+echo $PACK > pack.mcmeta
+zip -u Frozen_Pear_Pack-master-dev.zip pack.mcmeta
+echo FPP-dev is downloaded
