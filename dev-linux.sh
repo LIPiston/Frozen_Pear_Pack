@@ -21,5 +21,5 @@ cd ..
 rm -rf Frozen_Pear_Pack-master master.zip
 PACK='{"pack": {"pack_format": 6,"description": "§l§6冻梨子续更包 \n§l§7Only for Java Edition"}}'
 echo $PACK > pack.mcmeta
-zip -u Frozen_Pear_Pack-master-dev.zip pack.mcmeta
+zip -ru Frozen_Pear_Pack-master-dev.zip pack.mcmeta
 echo FPP-dev is downloaded
