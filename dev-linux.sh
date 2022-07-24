@@ -15,7 +15,7 @@ echo "==========================================================================
 wget -q --show-progress https://github.com/LIPiston/Frozen_Pear_Pack/archive/refs/heads/master.zip
 unzip master.zip
 cd Frozen_Pear_Pack-master
-zip -u Frozen_Pear_Pack-master-dev.zip *
+zip -ru Frozen_Pear_Pack-master-dev.zip *
 mv Frozen_Pear_Pack-master-dev.zip ../Frozen_Pear_Pack-master-dev.zip
 cd ..
 rm -rf Frozen_Pear_Pack-master master.zip
