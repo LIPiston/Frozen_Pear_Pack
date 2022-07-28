@@ -18,10 +18,11 @@ cd Frozen_Pear_Pack-master
 zip -ru Frozen_Pear_Pack-master-dev.zip *
 mv Frozen_Pear_Pack-master-dev.zip ../Frozen_Pear_Pack-master-dev.zip
 cd ..
-rm -rf Frozen_Pear_Pack-master master.zip pack.mcmeta
+rm -rf Frozen_Pear_Pack-master master.zip
 PACK='{"pack": {"pack_format": 6,"description": "§l§6冻梨子续更包 \n§l§7Only for Java Edition"}}'
 echo $PACK > pack.mcmeta
 zip -ru Frozen_Pear_Pack-master-dev.zip pack.mcmeta
+rm pack.mcmeta
 FILE=Frozen_Pear_Pack-master-dev.zip
 if test -f "$FILE"; then
     echo "FPP-dev is builded"
