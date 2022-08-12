@@ -1,53 +1,103 @@
+<div align="center">
 # [Frozen Pear Pack](https://github.com/LIPiston/Frozen_Pear_Pack)
 
-# 冻梨子材质
+English| [简体中文](./README.zh.md) 
 
- 原项目为 Pairman 开发的[PTP 梨子材质](https://github.com/Pairman/PTP)
+[Check it out on MCBBS](https://www.mcbbs.net/thread-1361283-1-1.html)
 
-停更后由 LIPiston 接手主持续更，主要更新人员为 LIPiston、MouFengcoo、LYOfficial
+![Release Download](https://img.shields.io/github/downloads/LIPiston/Frozen_Pear_Pack/total?style=flat-square)
+[![Release Version](https://img.shields.io/github/v/release/LIPiston/Frozen_Pear_Pack?style=flat-square)](https://github.com/LIPiston/Frozen_Pear_Pack/releases/latest)
+
+[![GitHub license](https://img.shields.io/github/license/LIPiston/Frozen_Pear_Pack?style=flat-square)](LICENSE)[![GitHub Star](https://img.shields.io/github/stars/LIPiston/Frozen_Pear_Pack?style=flat-square)](https://github.com/LIPiston/Frozen_Pear_Pack/stargazers)[![GitHub Fork](https://img.shields.io/github/forks/LIPiston/Frozen_Pear_Pack?style=flat-square)](https://github.com/LYOfficial/HiGames/network/members)
+
+[![Official WebSite](https://img.shields.io/badge/Website-FPP-blue.svg?style=flat-square&color=61dafb)](https://www.mcbbs.net/thread-1361283-1-1.html)
+[![QQ群](https://img.shields.io/badge/QQ群-671807024-blue.svg?style=flat-square&color=12b7f5)](https://jq.qq.com/?_wv=1027&k=0UzoROFa)
+
+
+ The original project was [PTP](https://github.com/Pairman/PTP)  developed by Pairman
+ 
+After the change, LIPiston took over the main continuous change, and the main updating personnel were LIPiston, MouFengcoo and LYOfficial
 
 ![](https://github.com/LYOfficial/Frozen_Pear_Pack/blob/master/title.png?raw=true)
 
-# ![1_inf](https://ooo.0o0.ooo/2018/04/15/5ad356c68a689.png)材质简介
-
-　　梨子材质（PTP）是一款 16x 的极简风格材质，它诞生于 2014 年 11 月 02 日，由 Pairman 小梨人 制作。材质最开始仅为为手机版 Minecraft 制作的整合包，后来逐渐发展为梨子材质，并且逐渐涵盖游戏的绝大部分贴图。材质更新历时五年之久，致力于向玩家提供更舒适的游戏体验。本材质适用于 Minecraft 基岩版 和 Java 版；目前已涵盖游戏内近乎所有的方块、物品和生物等材质，贴图风格简约、配色清简明快，保证了统一的视觉风格，为玩家呈现出一个近乎完美的方块世界。本材质可以很好地贴合生存、建筑、红石等情景，让玩家在游戏中感受到宁静与舒适。本材质还涵盖了部分自定义方块（如手机版旧版蓝玫瑰的回归、多姿的荷叶与荷花)和定制的游戏界面，这些有趣的特性也会进一步增添游戏乐趣。（在 2018 年停止更新）
-　　
+# ![1_inf](https://ooo.0o0.ooo/2018/04/15/5ad356c68a689.png)Material Introduction
+　　PTP is a 16X minimalist material. It was created on November 02, 2014 by Pairman Pear Man. 
+　　Textures started out as a pack for mobile Minecraft, but evolved into pear textures to cover the vast majority of the game's textures. 
+　　The material update has been in the works for five years to provide a more comfortable experience for players. 
+　　This material works with both the Bedrock and Java versions of Minecraft. 
+　　At present, nearly all the blocks, objects and creatures in the game have been covered. The texture style is simple and the color matching is clear and concise, which ensures a unified visual style and presents a nearly perfect block world for players. This material can be a good fit for survival, architecture, red stone and other scenes, so that players feel quiet and comfortable in the game. This material also includes some custom blocks (such as the return of the old Blue Rose for mobile, colorful lotus leaves and lotus flowers) and a customized game interface, which will further add fun to the game. (No updates in 2018)　
+　　　
 　　　<br>
-　　冻梨子材质（FPP）是 LIPiston 接手并主持的续更材质，主要更新人员为 LIPiston、MouFengcoo、LYOfficial，正在慢慢补齐 2018 年之后的物品材质，目前 1.15 版本已经更新完毕，正在更新 1.16 部分……
+　　　
+　　FPP is LIPiston's successor material, which is mainly updated by LIPiston, MouFengcoo and LYOfficial. The material for items after 2018 is being slowly updated, and the 1.15 version has been updated. Updating section 1.16...
 
-# ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png)下载安装
+# ![3_scr](https://ooo.0o0.ooo/2018/04/15/5ad356e2418e9.png)Screenshot Appreciation
 
-　　由于 PTP 老材质不适用于新版 MC ，而且基岩版下载链接部分已经失效，于是您仅可以下载最新 FPP 材质包的 Java 版材质。链接旁已标明材质适用的游戏版本。下载速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
+## Screenshot of interface UI:
 
-| 材质稳定性 | 适用游戏版本 | GitHub | TECO云盘 |
+Main interface: 
+![](http://space.coldregion.top/FPP/UI1.png)
+Material Pack interface: 
+![](http://space.coldregion.top/FPP/FPP.png)
+Module interface: 
+![](http://space.coldregion.top/FPP/UI3.png)
+Multiplayer interface:
+![](http://space.coldregion.top/FPP/UI2.png)
+
+## Screenshot of Creative Mode inventory:
+
+![](http://space.coldregion.top/FPP/a.png)
+![](http://space.coldregion.top/FPP/b.png)
+![](http://space.coldregion.top/FPP/c.png)
+![](http://space.coldregion.top/FPP/d.png)
+![](http://space.coldregion.top/FPP/e.png)
+![](http://space.coldregion.top/FPP/f.png)
+![](http://space.coldregion.top/FPP/g.png)
+![](http://space.coldregion.top/FPP/h.png)
+![](http://space.coldregion.top/FPP/i.png)
+
+
+## Block & physical screenshot:
+
+![](http://space.coldregion.top/FPP/1.png)
+![](http://space.coldregion.top/FPP/1.1.png)
+![](http://space.coldregion.top/FPP/2.2.png)
+![](http://space.coldregion.top/FPP/3.png)
+![](http://space.coldregion.top/FPP/11.png)
+![](http://space.coldregion.top/FPP/22.png)
+![](http://space.coldregion.top/FPP/33.png)
+![](http://space.coldregion.top/FPP/44.png)
+## Survival mode effect screenshot:
+![](http://space.coldregion.top/FPP/UI4.png)
+![](http://space.coldregion.top/FPP/UI5.png)
+![](http://space.coldregion.top/FPP/qwp1.png)
+![](http://space.coldregion.top/FPP/qwp2.png)
+
+## Light and shadow effect display:
+![](https://ns.complexstudio.net/uploads/images/2022-07-11/775cce64b4453aa3c4f0277dd582a9f9.png)
+![](https://ns.complexstudio.net/uploads/images/2022-07-11/19ede5cd68acf9c607496e510c782b4e.png)
+![](https://ns.complexstudio.net/uploads/images/2022-07-11/6b72a1d521662af491df3e8dea019b27.png)
+![](https://ns.complexstudio.net/uploads/images/2022-07-11/a5228e4cdd3ce401905486be8cc144a3.png)
+
+
+
+# ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png)Download and Install
+　　Since the old PTP material does not work with the new MC and the Bedrock download link is broken, you can only download the Java version of the latest FPP material pack. The version of the game for which the material is applicable is indicated next to the link. The download speed depends on your network and typically takes less than a cup of coffee.
+　　
+| Stability | Game Version  | GitHub | TECO Pan |
 |:----------: | :----------: | :-----------: | :-----------: |
-| 稳定  | JE1.15+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-1.15) | [下载](http://pan.coldregion.top:17468/share/fl0pBpu6)  |
-| 不稳定  | JE1.16+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [下载](http://pan.coldregion.top:17468/share/kCXC4UGr)  |
-| 不稳定  | JE1.17+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [下载](http://pan.coldregion.top:17468/share/CdSSBwdh)  |
-| 不稳定  | JE1.18+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [下载](http://pan.coldregion.top:17468/share/rBbpt9N9)  |
+| Stable  | JE1.15+  | [Download](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-1.15) | [Download](http://teco.coldregion.top:17468/share/r_s_RVYB)  |
+| Unstable  | JE1.16+  | [Download](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [Download](http://teco.coldregion.top:17468/share/r_s_RVYB)  |
+| Unstable   | JE1.17+  | [Download](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [Download](http://teco.coldregion.top:17468/share/r_s_RVYB)  |
+| Unstable  | JE1.18+  | [Download](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [Download](http://teco.coldregion.top:17468/share/r_s_RVYB)  |
 
-__dev 构建下载__
-```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/LIPiston/Frozen_Pear_Pack/master/dev-linux.sh)"
-```
+　　The material pack for the bedrock version is in McPack format, which you can open directly.
+　　
 　　<br>
-　　Java版 的材质包为 zip 格式，您可以将 zip 文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
-
+　　The Java version of the material pack is in ZIP format. You can save or unzip the ZIP file directly to the following path and then enable materials in the game Settings:
+　　　　　
 ```markdown
 　　　Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
 　　　Linux: /home/(User)/.minecraft/resourcepacks/
 ```
 
-# ![3_scr](https://ooo.0o0.ooo/2018/04/15/5ad356e2418e9.png)截图欣赏
-
-![](https://github.com/LIPiston/Frozen_Pear_Pack/raw/master/demo.png)
-
-![](https://github.com/LIPiston/Frozen_Pear_Pack/blob/master/demo2.png)
-
-![](https://github.com/LIPiston/Frozen_Pear_Pack/blob/master/demo3.png)
-
-![](https://i.loli.net/2019/02/09/5c5dc11a6d1b0.png)
-
-# ![1_inf](https://ooo.0o0.ooo/2018/04/15/5ad356c68a689.png)加入我们
-
-　　[点此进入 FPP 脑血栓交流群](https://jq.qq.com/?_wv=1027&k=0UzoROFa)
