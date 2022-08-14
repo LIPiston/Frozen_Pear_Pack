@@ -37,7 +37,7 @@ After the change, LIPiston took over the main continuous change, and the main up
 
 Main interface: 
 ![](http://space.coldregion.top/FPP/UI1.png)
-Material Pack interface: 
+Resource packs interface: 
 ![](http://space.coldregion.top/FPP/FPP.png)
 Module interface: 
 ![](http://space.coldregion.top/FPP/UI3.png)
@@ -73,7 +73,7 @@ Multiplayer interface:
 ![](http://space.coldregion.top/FPP/qwp1.png)
 ![](http://space.coldregion.top/FPP/qwp2.png)
 
-## Light and shadow effect display:
+## PBR shaders:
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/775cce64b4453aa3c4f0277dd582a9f9.png)
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/19ede5cd68acf9c607496e510c782b4e.png)
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/6b72a1d521662af491df3e8dea019b27.png)
