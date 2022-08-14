@@ -1,7 +1,7 @@
 <div align="center">
 #  [Frozen Pear Pack](https://github.com/LIPiston/Frozen_Pear_Pack)
 
-English| [简体中文](./README.zh.md) 
+English | [简体中文](./README.zh.md) 
 
 [Check it out on MCBBS](https://www.mcbbs.net/thread-1361283-1-1.html)
 

@@ -1,6 +1,7 @@
-<div align="center">
-#  [Frozen Pear Pack](https://github.com/LIPiston/Frozen_Pear_Pack)
-#  冻梨子材质
+<div align="center">  
+
+# [Frozen Pear Pack/冻梨子材质](https://github.com/LIPiston/Frozen_Pear_Pack)
+
 
 [English](./README.md) | 简体中文
 
