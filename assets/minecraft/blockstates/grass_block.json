@@ -2,7 +2,16 @@
   "variants": {
     "snowy=false": [
       {
-        "model": "minecraft:block/grass_block", "weight": 192
+        "model": "minecraft:block/grass_block", "weight": 48
+      },
+      {
+        "model": "minecraft:block/grass_block", "y": 90,"weight": 48
+      },
+      {
+        "model": "minecraft:block/grass_block", "y": 180,"weight": 48
+      },
+      {
+        "model": "minecraft:block/grass_block", "y": 270,"weight": 48
       },
       {
         "model": "minecraft:block/grass_block_01", "weight": 1
