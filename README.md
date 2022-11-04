@@ -1,5 +1,7 @@
 # [Frozen Pear Pack - 冻梨子材质](https://github.com/LIPiston/Frozen_Pear_Pack)
 
+![](https://attachment.mcbbs.net/data/myattachment/group/cd/group_2194_banner.png?1667564028)
+
 [在 MCBBS 上查看](https://www.mcbbs.net/thread-1361283-1-1.html)
 
 ![Release Download](https://img.shields.io/github/downloads/TecoStudio/Frozen_Pear_Pack/total?style=flat-square)
@@ -24,12 +26,10 @@
 # ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png)下载安装
 　　由于 PTP 老材质不适用于新版 MC ，而且基岩版下载链接部分已经失效，于是您仅可以下载最新 FPP 材质包的 Java 版材质。链接旁已标明材质适用的游戏版本。下载速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
 
-| 材质稳定性 | 适用游戏版本 | GitHub | TECO云盘 |
+| 材质稳定性 | 适用MC版本 |材质版本| GitHub | TECO云盘 |
 |:----------: | :----------: | :-----------: | :-----------: |
-| 稳定  | JE1.15+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-1.15) | [下载](http://teco.coldregion.top:17468/share/r_s_RVYB)  |
-| 不稳定  | JE1.16+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [下载](http://teco.coldregion.top:17468/share/r_s_RVYB)  |
-| 不稳定  | JE1.17+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [下载](http://teco.coldregion.top:17468/share/r_s_RVYB)  |
-| 不稳定  | JE1.18+  | [下载](https://github.com/LIPiston/Frozen_Pear_Pack/releases/tag/v6.8-alpha2) | [下载](http://teco.coldregion.top:17468/share/r_s_RVYB)  |
+| 稳定  | JE1.16+  | v8.3|[下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/tag/v8.3) | [下载](http://pan.coldregion.top:17468/share/kCXC4UGr)  |
+| 稳定  | JE1.15+  | v7.0| [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/tag/v7.0) | [下载](http://teco.coldregion.top:17468/share/5WyvQVb-)  |
 
 　　__测试构建包下载__
 ```sh
