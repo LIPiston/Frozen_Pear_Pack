@@ -34,8 +34,8 @@
 
 | 材质名称 | 适用MC版本 | 材质版本 | GitHub | TECO云盘 |
 | :----------: | :----------: | :-----------: | :-----------: | :-------: |
-| FPP | JE1.16  | v8.5 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/tag/v8.3) | [下载](http://bbs.tecostudio.cn:17468/share/7-17CK6m) |
-| BRP | JE1.16  | v8.5 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/tag/v8.3) | [下载](http://bbs.tecostudio.cn:17468/share/u87iUzPH) |
+| FPP | JE1.16  | v8.5 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/download/v8.5/FPP_v8.5_for_MC1.16.zip) | [下载](http://bbs.tecostudio.cn:17468/share/7-17CK6m) |
+| BRP | JE1.16  | v8.5 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/download/v8.5/BRP_v8.5_for_MC1.16.zip) | [下载](http://bbs.tecostudio.cn:17468/share/u87iUzPH) |
 | FPP | JE1.15  | v7.0 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/tag/v7.0) | [下载](http://bbs.tecostudio.cn:17468/share/lvv2khc6) |
 
 
@@ -121,6 +121,10 @@
 
 ## 光影效果展示：
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/775cce64b4453aa3c4f0277dd582a9f9.png)
+
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/19ede5cd68acf9c607496e510c782b4e.png)
+
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/6b72a1d521662af491df3e8dea019b27.png)
+
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/a5228e4cdd3ce401905486be8cc144a3.png)
+
