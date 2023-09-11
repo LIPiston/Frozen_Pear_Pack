@@ -1,6 +1,6 @@
 # [Frozen Pear Pack - 冻梨子材质](https://github.com/LIPiston/Frozen_Pear_Pack)
 
-![](https://attachment.mcbbs.net/data/myattachment/group/cd/group_2194_banner.png?1667564028)
+![](https://github.com/TecoStudio/.github/raw/main/title.png?raw=true)
 
 [在 MCBBS 上查看](https://www.mcbbs.net/thread-1361283-1-1.html)
 
@@ -10,19 +10,18 @@
 [![GitHub license](https://img.shields.io/github/license/TecoStudio/Frozen_Pear_Pack?style=flat-square)](LICENSE)[![GitHub Star](https://img.shields.io/github/stars/TecoStudio/Frozen_Pear_Pack?style=flat-square)](https://github.com/LIPiston/Frozen_Pear_Pack/stargazers)[![GitHub Fork](https://img.shields.io/github/forks/TecoStudio/Frozen_Pear_Pack?style=flat-square)](https://github.com/LYOfficial/HiGames/network/members)
 
 [![Official WebSite](https://img.shields.io/badge/Website-FPP-blue.svg?style=flat-square&color=61dafb)](https://www.mcbbs.net/thread-1361283-1-1.html)
-[![QQ群](https://img.shields.io/badge/QQ群-671807024-blue.svg?style=flat-square&color=12b7f5)](https://jq.qq.com/?_wv=1027&k=0UzoROFa)
 
  原项目为 Pairman 开发的[ PTP 梨子材质](https://github.com/Pairman/PTP)
- 
-停更后由 LIPiston 接手主持续更，主要更新人员为 LIPiston、MouFengcoo、LYOfficial
 
-![](https://github.com/LYOfficial/Frozen_Pear_Pack/blob/master/title.png?raw=true)
+停更后由 LIPiston 接手主持续更，主要更新人员为 LYOfficial、MouFengcoo、LIPiston、LYOfficial、Smallcoral
+
+
 
 #  ![1_inf](https://ooo.0o0.ooo/2018/04/15/5ad356c68a689.png)材质简介
 　　梨子材质（PTP）是一款 16x 的极简风格材质，它诞生于 2014 年 11 月 02 日，由 Pairman 小梨人 制作。材质最开始仅为为手机版 Minecraft 制作的整合包，后来逐渐发展为梨子材质，并且逐渐涵盖游戏的绝大部分贴图。材质更新历时五年之久，致力于向玩家提供更舒适的游戏体验。本材质适用于 Minecraft 基岩版 和 Java 版；目前已涵盖游戏内近乎所有的方块、物品和生物等材质，贴图风格简约、配色清简明快，保证了统一的视觉风格，为玩家呈现出一个近乎完美的方块世界。本材质可以很好地贴合生存、建筑、红石等情景，让玩家在游戏中感受到宁静与舒适。本材质还涵盖了部分自定义方块（如手机版旧版蓝玫瑰的回归、多姿的荷叶与荷花)和定制的游戏界面，这些有趣的特性也会进一步增添游戏乐趣。（在 2018 年停止更新）
 　　
 　　冻梨子材质（FPP）是 LIPiston 接手并主持的续更材质，主要更新人员为 LIPiston、MouFengcoo、LYOfficial，正在慢慢补齐 2018 年之后的物品材质，目前 1.16 版本已经更新完毕，正在做小修小补，准备更新 1.17 部分。
- 
+
 # ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png)下载安装
 　　由于 PTP 老材质不适用于新版 MC ，而且基岩版下载链接部分已经失效，于是您仅可以下载最新 FPP 材质包的 Java 版材质。链接旁已标明材质适用的游戏版本。下载速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
 
