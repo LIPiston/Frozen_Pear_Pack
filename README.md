@@ -35,7 +35,7 @@
 | 材质名称 | 适用MC版本 | 材质版本 | GitHub | TECO云盘 |
 | :----------: | :----------: | :-----------: | :-----------: | :-------: |
 | FPP | JE1.16  | v8.5 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/download/v8.5/FPP_v8.5_for_MC1.16.zip) | [下载](http://bbs.tecostudio.cn:17468/share/7-17CK6m) |
-| BRP | JE1.16  | v8.5 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/download/v8.5/BRP_v8.5_for_MC1.16.zip) | [下载](http://bbs.tecostudio.cn:17468/share/u87iUzPH) |
+| BRP | JE1.16  | v8.6 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/download/v8.5/BRP_v8.5_for_MC1.16.zip) | [下载](http://bbs.tecostudio.cn:17468/share/tXC3M2aT) |
 | FPP | JE1.15  | v7.0 | [下载](https://github.com/TecoStudio/Frozen_Pear_Pack/releases/tag/v7.0) | [下载](http://bbs.tecostudio.cn:17468/share/lvv2khc6) |
 
 
