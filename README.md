@@ -37,3 +37,6 @@
 
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/a5228e4cdd3ce401905486be8cc144a3.png)
 
+
+## 相关资源
+资源包使用的字体[LXGW Neo XiHei / 霞鹜新晰黑](https://github.com/lxgw/LxgwNeoXiHei)
