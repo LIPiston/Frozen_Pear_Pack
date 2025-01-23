@@ -24,9 +24,11 @@
 
 *  **PPP - 炫梨子拓展包（Pbr Pear Pack）**是MouFengcoo 主持制作的光影效果包，致力于统一自定义模型，目前伴随 FPP 旧版本（v8.3 for MC1.16）一并发布，正在准备独立成扩展包，以减小主包体积。
 
-* **BRP - 血红梨红石包（Blood Redstone Pear）**是 Smallcoral 主持制作，活塞脑壳和 LYOfficial 协助改进的红石拓展包，弥补原版冻梨子红石材质简朴到不实用的特色。
+* **BRP(deprecated) - 血红梨红石包（Blood Redstone Pear）**是 Smallcoral 主持制作，活塞脑壳和 LYOfficial 协助改进的红石拓展包，弥补原版冻梨子红石材质简朴到不实用的特色。（deprecated）
 
 * **FPP - 斗梨子战斗包（Fight Pear Pack）**是 LYOfficial 主持制作的战斗拓展包，弥补了原版冻梨子战斗系列工具及方块不便于在小游戏中使用的不足，由原来 LYOfficial 制作的“FightG - 战斗姬”材质包演变而来，正在制作和测试中……
+
+
 
 ## 光影效果展示：
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/775cce64b4453aa3c4f0277dd582a9f9.png)
@@ -37,6 +39,9 @@
 
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/a5228e4cdd3ce401905486be8cc144a3.png)
 
+# to-do list
+- [ ] 整理文件夹结构
+- [ ] 修补1.16.5
+- [ ] 更新1.17
+- [ ] 分离光影效果包
 
-## 相关资源
-资源包使用的字体[LXGW Neo XiHei / 霞鹜新晰黑](https://github.com/lxgw/LxgwNeoXiHei)
