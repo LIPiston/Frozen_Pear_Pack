@@ -2,18 +2,16 @@
 
 ![](https://github.com/TecoStudio/.github/raw/main/title.png?raw=true)
 
-[在 MCBBS 上查看](https://www.mcbbs.net/thread-1361283-1-1.html)
+
 
 ![Release Download](https://img.shields.io/github/downloads/TecoStudio/Frozen_Pear_Pack/total?style=flat-square)
 [![Release Version](https://img.shields.io/github/v/release/TecoStudio/Frozen_Pear_Pack?style=flat-square)](https://github.com/LIPiston/Frozen_Pear_Pack/releases/latest)
 
 [![GitHub license](https://img.shields.io/github/license/TecoStudio/Frozen_Pear_Pack?style=flat-square)](LICENSE)[![GitHub Star](https://img.shields.io/github/stars/TecoStudio/Frozen_Pear_Pack?style=flat-square)](https://github.com/LIPiston/Frozen_Pear_Pack/stargazers)[![GitHub Fork](https://img.shields.io/github/forks/TecoStudio/Frozen_Pear_Pack?style=flat-square)](https://github.com/LYOfficial/HiGames/network/members)
 
-[![Official WebSite](https://img.shields.io/badge/Website-FPP-blue.svg?style=flat-square&color=61dafb)](https://www.mcbbs.net/thread-1361283-1-1.html)
-
 原项目为 Pairman 开发的[ PTP 梨子材质](https://github.com/Pairman/PTP)
 
-停更后由 LIPiston 接手主持续更，主要更新人员为 LYOfficial、MouFengcoo、LIPiston、LYOfficial、Smallcoral
+停更后由 LIPiston 接手主持续更，主要更新人员为 LIPiston、MouFengcoo、LYOfficial、Smallcoral
 
 
 
