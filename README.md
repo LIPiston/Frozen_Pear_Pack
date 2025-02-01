@@ -3,7 +3,6 @@
 ![](https://raw.githubusercontent.com/TecoStudio/Frozen_Pear_Pack/refs/heads/master/title.png)
 ![](https://github.com/TecoStudio/.github/raw/main/title.png?raw=true)
 
-[在 红石中继站 上查看](https://www.mczwlt.net/resource/d47kz6cz)
 
 ![Release Download](https://img.shields.io/github/downloads/TecoStudio/Frozen_Pear_Pack/total?style=flat-square)
 [![Release Version](https://img.shields.io/github/v/release/TecoStudio/Frozen_Pear_Pack?style=flat-square)](https://github.com/LIPiston/Frozen_Pear_Pack/releases/latest)
@@ -13,7 +12,7 @@
 
 原项目为 Pairman 开发的[ PTP 梨子材质](https://github.com/Pairman/PTP)
 
-停更后由 LIPiston 接手主持续更，主要更新人员为 LYOfficial、MouFengcoo、LIPiston、LYOfficial、Smallcoral
+停更后由 LIPiston 接手主持续更，主要更新人员为 LIPiston、MouFengcoo、LYOfficial、Smallcoral
 
 
 
