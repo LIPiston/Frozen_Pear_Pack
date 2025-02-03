@@ -17,7 +17,7 @@ jobs:
         
       - uses: montudor/action-zip@v1
         with:
-          args: zip -qq -r FPP-$(echo ${{ github.sha }} | cut -c1-7).zip "./1.16.5/FPP/*"
+          args: -qq -r FPP-$(echo ${{ github.sha }} | cut -c1-7).zip "./1.16.5/FPP/*"
 
       - uses: actions/upload-artifact@v4
         with:
