@@ -9,6 +9,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/TecoStudio/Frozen_Pear_Pack?style=flat-square)](LICENSE)[![GitHub Star](https://img.shields.io/github/stars/TecoStudio/Frozen_Pear_Pack?style=flat-square)](https://github.com/LIPiston/Frozen_Pear_Pack/stargazers)[![GitHub Fork](https://img.shields.io/github/forks/TecoStudio/Frozen_Pear_Pack?style=flat-square)](https://github.com/LYOfficial/HiGames/network/members)
 
+[查看alpha版构建](https://github.com/TecoStudio/Frozen_Pear_Pack/actions)
 
 原项目为 Pairman 开发的[ PTP 梨子材质](https://github.com/Pairman/PTP)
 
