@@ -12,12 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: ls
-        run: ls -R
-        
-      - uses: montudor/action-zip@v1
-        with:
-          args: -qq -r FPP-$(echo ${{ github.sha }} | cut -c1-7).zip "./1.16.5/FPP/*"
+      - name: Zip files
+        run: |
+          zip -qq -r FPP-$(echo ${{ github.sha }} | cut -c1-7).zip ./1.16.5/FPP/*
 
       - uses: actions/upload-artifact@v4
         with:
