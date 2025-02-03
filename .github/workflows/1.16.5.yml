@@ -20,4 +20,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: alpha
-          path: FPP-*
+          path: 1.16.5/FPP/FPP-*
