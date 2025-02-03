@@ -11,10 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: git clone
+        run: git clone https://github.com/TecoStudio/Frozen_Pear_Pack.git
       - name: pack
         run: 	zip -r /FPP-$(echo ${{ github.sha }} | cut -c1-7).zip /1.16.5/FPP/
-      - name: Upload zip
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
           name: Upload zip
           path: FPP-*
