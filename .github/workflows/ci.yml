@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: montudor/action-zip@v1
+      - uses: edgarrc/action-7z@v1
         with:
-          args: zip -r /FPP-$(echo ${{ github.sha }} | cut -c1-7).zip "/1.16.5/FPP"
+          args: 7z a /FPP-$(echo ${{ github.sha }} | cut -c1-7).zip -r "/1.16.5/FPP"
       - uses: actions/upload-artifact@v4
         with:
           name: Upload zip
