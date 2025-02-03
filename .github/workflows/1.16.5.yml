@@ -7,23 +7,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  checkout:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: gitclone
-        run: git clone https://github.com/TecoStudio/Frozen_Pear_Pack.git
-      
+        
       - uses: montudor/action-zip@v1
         with:
-          args: |
-            sleep 30s
-            zip -q -r FPP.zip "/1.16.5/FPP/*"
-     
-      - name: pack
-        run: mv FPP.zip FPP-$(echo ${{ github.sha }} | cut -c1-7).zip 
-      
+          args: zip -qq -r FPP-$(echo ${{ github.sha }} | cut -c1-7).zip "/1.16.5/FPP/*"
+
       - uses: actions/upload-artifact@v4
         with:
           name: Upload zip
