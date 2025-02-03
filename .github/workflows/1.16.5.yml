@@ -19,5 +19,5 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: FPP-$(echo ${{ github.sha }} | cut -c1-7)-1.16.5-unzip2use
+          name: FPP-1.16.5-unzip2use
           path: 1.16.5/FPP/FPP-*
