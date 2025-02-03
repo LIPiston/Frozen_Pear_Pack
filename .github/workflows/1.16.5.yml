@@ -11,9 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: pack
+        run: git clone https://github.com/TecoStudio/Frozen_Pear_Pack.git
       - uses: montudor/action-zip@v1
         with:
-          args: zip -q -r FPP.zip "/1.16.5/FPP"
+          args: zip -q -r FPP.zip "/1.16.5/FPP/*"
       - name: pack
         run: mv FPP.zip FPP-$(echo ${{ github.sha }} | cut -c1-7).zip 
       - uses: actions/upload-artifact@v4
