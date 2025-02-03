@@ -14,7 +14,8 @@ jobs:
 
       - name: Zip files
         run: |
-          zip -qq -r FPP-$(echo ${{ github.sha }} | cut -c1-7).zip ./1.16.5/FPP/*
+          cd 1.16.5/FPP
+          zip -qq -r FPP-$(echo ${{ github.sha }} | cut -c1-7).zip *
 
       - uses: actions/upload-artifact@v4
         with:
