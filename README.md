@@ -38,10 +38,3 @@
 
 ![](https://ns.complexstudio.net/uploads/images/2022-07-11/a5228e4cdd3ce401905486be8cc144a3.png)
 
-# to-do list
-- [ ] 整理文件夹结构
-- [ ] 修补1.16.5
-- [ ] 更新1.17
-- [ ] 分离光影效果包
-- [ ] 地狱系方块修改
-- [ ] gui重绘
